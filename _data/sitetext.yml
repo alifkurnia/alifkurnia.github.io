@@ -131,7 +131,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Me"
-    text: "Isi Form dibawah atau [Whatsapp ke Saya](https://wa.me/6283846440334)"
+    text: "Isi Form dibawah atau Whatsapp +6283846440334"
     section: contact
     name: "Nama*"
     name-validation: "Please enter your name."
