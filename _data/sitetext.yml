@@ -39,7 +39,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Dokumentasi proyek dan hal-hal yang sedang saya kerjakan."
     section: portfolio
     closebutton: "Close Project"
 
