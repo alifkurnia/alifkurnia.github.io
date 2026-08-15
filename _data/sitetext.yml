@@ -72,6 +72,14 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
+      - title: "PT. Sinergy Informasi Pratama"
+        year: "Sekarang"
+        desc: "Technical Implementation — fokus di Network Security dan CyberSecurity. Implementasi dan maintenance firewall Palo Alto, Fortinet FortiGate, dan Checkpoint, serta IBM QRadar dan Forcepoint DLP. Terlibat dalam tim AdHoc pembentukan model bisnis Security Operation Center (SOC)."
+        icon: "Karir"
+      - title: "Sertifikasi Profesional"
+        year: "2022 – 2024"
+        desc: "Palo Alto Networks Certified Network Security Engineer (PCNSE)<br>Palo Alto Networks Accredited Systems Engineer (PSE) — Software Firewall Professional<br>IBM Certified Deployment Professional — Security QRadar SIEM V7.4.3"
+        icon: "Sertif"
     end: "Hidup <br> Masih <br> Berlanjut!"
 
   clients:

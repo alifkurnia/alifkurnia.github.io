@@ -29,9 +29,15 @@
                 <li>
               {% endif %}
             {%- endif -%}
+              {%- if event.image -%}
               <div class="timeline-image">
                 <img class="rounded-circle img-fluid" src="{{ event.image }}" alt="{{ event.alt | default: ""}}">
               </div>
+              {%- else -%}
+              <div class="timeline-image">
+                <h4>{{ event.icon | default: "" }}</h4>
+              </div>
+              {%- endif -%}
               <div class="timeline-panel">
                 <div class="timeline-heading">
                   <h4>{{ event.year | markdownify }}</h4>
