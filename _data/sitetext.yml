@@ -24,18 +24,18 @@ en: &DEFAULT_EN
 
   services:
     title: "Keahlian"
-    text: "Lorem ipsum"
+    text: ""
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "CyberSecurity"
+        desc: "Konfigurasi dan pengelolaan firewall (FortiGate, Palo Alto), SSL decryption, serta hardening keamanan jaringan."
+        icon: fas fa-shield-alt
+      - title: "Networking"
+        desc: "Desain dan implementasi jaringan, SD-WAN, routing & switching, serta troubleshooting infrastruktur."
+        icon: fas fa-network-wired
+      - title: "Server Admin"
+        desc: "Administrasi server, virtualisasi Proxmox, VPN server, dan layanan self-hosted."
+        icon: fas fa-server
 
   portfolio:
     title: "Portfolio"
@@ -94,44 +94,14 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: ""
+    subtext: ""
     section: team
-    people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+    people: []
 
   contact:
     title: "Contact Me"
-    text: "Isi Form dibawah atau Whatsapp +6283846440334"
+    text: "Hubungi saya lewat email atau LinkedIn."
     section: contact
     name: "Nama*"
     name-validation: "Please enter your name."
