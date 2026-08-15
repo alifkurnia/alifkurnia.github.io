@@ -19,7 +19,7 @@ en: &DEFAULT_EN
   about:
     title: "About Me"
     text: "alif sneak peak"
-    body: "Alif merupakan Fresh Graduate dari Politeknik NegerI Jember dengan Tugas Akhir yang berjudul Penggunaan Raspberry Pi Sebagai VPN Server, DHCP Server dan DNS Sinkhole Sebagai Penangkal Iklan. Alif juga sering mempunyai project pribadinya seperti instalasi Solar Cell dirumahnya, pembuatan Web Server di rumah hingga desain jaringan yang dilakukan oleh dia sendiri."
+    body: "Saat ini saya bekerja di PT. Sinergy Informasi Pratama sebagai Technical Implementation, dengan spesialisasi di bidang Network Security dan CyberSecurity. Sehari-hari saya menangani implementasi dan perawatan firewall enterprise seperti Palo Alto, Fortinet FortiGate, dan Checkpoint, serta solusi keamanan lainnya seperti IBM QRadar dan Forcepoint DLP. Saya juga pernah menjadi bagian dari tim AdHoc yang membentuk model bisnis Security Operation Center (SOC) untuk Sinergy, memperkuat fokus saya di dunia keamanan siber."
     section: about
 
   services:
